@@ -1,2 +1,2 @@
-coverage==4.0.3
+coverage==5.1
 coveralls==1.1
